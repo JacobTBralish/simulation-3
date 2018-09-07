@@ -1,10 +1,15 @@
 import React from 'react';
 
-export default function Nav () {
+function Nav(){
+
+        
+
     return(
         <div>
+
             <div>Nav</div>
         </div>
    
     )
 }
+export default Nav;
